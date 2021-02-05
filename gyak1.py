@@ -1,6 +1,5 @@
 '''Videóban látott feladat elkészítése (sulipy 3. fejezet. Változók és típusok. Első lépések)
 
-a videóban 6. percnél tartok
 A videóban látott videó kis elemzése.
 
 a változó neve
